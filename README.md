@@ -1,2 +1,5 @@
 # gitinfo
-Info on setup of servers and notes on linux commands required to do so. This repository is located in mom on /fs. To send to github open PS7 and use regular commands
+Site for information on servers, linux, vscode, backups, cron and other tools used in creating apps and server.
+
+## Information is held and updated in the gitinfo.wiki. 
+Go there to use this information.
